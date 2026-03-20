@@ -1,8 +1,3 @@
-IT IS MY FIRST REPO.
-I HAVE TO BE HONEST THE CODE IS FROM CLAUDE AI BUT,
-I JUST WANTED TO START RATHER THAN STANDING STILL I WANTED TO MOVE 
-WELL, THIS IS MY FIRST MOVE 
-
 # 🔍 HTML File Type Identifier
 
 A lightweight, browser-based tool that detects and identifies file types by analyzing HTML file inputs — using magic bytes, MIME types, and file signatures rather than relying solely on file extensions.

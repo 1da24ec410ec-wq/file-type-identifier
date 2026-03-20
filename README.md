@@ -199,6 +199,7 @@ This project is licensed under the **MIT License**. See [`LICENSE`](./LICENSE) f
 - Inspired by the [Gary Kessler File Signatures Table](https://www.garykessler.net/library/file_sigs.html)
 - Magic byte data sourced from [Wikipedia's List of file signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
 - Built with vanilla web technologies — no frameworks required
+VIEW SUMMARY - Summary.pdf
 
 ---
 
